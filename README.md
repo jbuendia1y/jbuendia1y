@@ -6,4 +6,4 @@
 
 
 1.  🌱 I’m currently learning :
-    - JavaScript
+    - JavaScript and TypeScript
