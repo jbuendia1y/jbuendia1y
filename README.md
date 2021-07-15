@@ -8,19 +8,19 @@ Hola, me llamo Carlo Joaquín Buendía Díaz y me especializo en el desarrollo w
 
 ## Tecnologías
 
-<div style="text-align:center;">
-<img src="assets/images/rxjs.png" style="width:30px;" />
-<img src="assets/images/typescript.png" style="width:30px;" />
-<img src="assets/images/react.png" style="width:30px;" />
-<img src="assets/images/python.png" style="width:30px;" />
-<img src="assets/images/nodejs.svg" style="width:30px;" />
-<img src="assets/images/mysql.png" style="width:30px;" />
-<img src="assets/images/mongodb.png" style="width:30px;" />
-<img src="assets/images/express.png" style="width:30px;" />
-<img src="assets/images/angular.png" style="width:37px;" />
-<img src="assets/images/angular-material.svg" style="width:30px;" />
-<img src="assets/images/javascript.png" style="width:30px;" />
-<img src="assets/images/css.png" style="width:30px;" />
-<img src="assets/images/html.png" style="width:41px;" />
-<img src="assets/images/sass.svg" style="width:41px;" />
+<div align="center">
+<img src="assets/images/rxjs.png" width="30px" />
+<img src="assets/images/typescript.png" width="30px" style="width:30px;" />
+<img src="assets/images/react.png" width="30px" />
+<img src="assets/images/python.png" width="30px" />
+<img src="assets/images/nodejs.svg" width="30px" />
+<img src="assets/images/mysql.png" width="30px" />
+<img src="assets/images/mongodb.png" width="30px" />
+<img src="assets/images/express.png" width="30px" />
+<img src="assets/images/angular.png" width="37px" />
+<img src="assets/images/angular-material.svg" width="30px" />
+<img src="assets/images/javascript.png" width="30px" />
+<img src="assets/images/css.png" width="30px" />
+<img src="assets/images/html.png" width="41px" />
+<img src="assets/images/sass.svg" width="41px" />
 </div>
