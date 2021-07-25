@@ -6,6 +6,14 @@ Hola, me llamo Carlo Joaquín Buendía Díaz y me especializo en el desarrollo w
 
 ---
 
+## Proyectos
+
+- [Inventory App](https://github.com/jbuendia1y/inventory-app-monorepo "IN DEVELOPMENT")
+- [CheckList App](https://iac-three.vercel.app/ "IN PRODUCTION")
+- [Insure Landing Page](https://github.com/jbuendia1y/insure-landing-page-master "IN PRODUCTION")
+
+---
+
 ## Tecnologías
 
 <div align="center">
@@ -24,3 +32,9 @@ Hola, me llamo Carlo Joaquín Buendía Díaz y me especializo en el desarrollo w
 <img src="assets/images/html.png" width="41px" />
 <img src="assets/images/sass.svg" width="41px" />
 </div>
+
+---
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jbuendia1y&show_icons=true&hide_border=false)](https://github-readme-stats.vercel.app/api?username=jbuendia1y&show_icons=true&hide_border=false" /></p>
+
+---
