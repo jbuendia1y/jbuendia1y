@@ -1,16 +1,16 @@
-# Joaquín Buendía
+# Hola Mundo !
 
 ## Acerca de Mí
 
-Hola, me llamo Carlo Joaquín Buendía Díaz y me especializo en el desarrollo web frontend.
+Soy un desarrollador apasionado por crear soluciones simples para facilitar el uso de software
 
 ---
 
 ## Proyectos
 
-- [Inventory App](https://github.com/jbuendia1y/inventory-app-monorepo "IN DEVELOPMENT")
-- [CheckList App](https://iac-three.vercel.app/ "IN PRODUCTION")
-- [Insure Landing Page](https://github.com/jbuendia1y/insure-landing-page-master "IN PRODUCTION")
+- [Hackathon Get on Board](https://hackathon-get-on-board.vercel.app/) - [Repo](https://github.com/JPerezC92/hackathon-get-on-board/)
+- [Insure Landing Page](https://insure-landing-page-master-git-main-jbuendia1y.vercel.app/) - [Repo](https://github.com/jbuendia1y/insure-landing-page-master)
+- [Crypto Tracker](https://crypto-tracker-two-liard.vercel.app/) - [Repo](https://gitlab.com/jbuendia1y/crypto-tracker)
 
 ---
 
